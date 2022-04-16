@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to James Menesini's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/JamesMenesini/JamesMenesini.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a .NET full stack software developer with many years in the public sector for Nevada with a focus on the ASP.NET Platform. I've been involved with all stages of the software development lifecycle: from supporting/fixing legacy code bases on .NET Framework 2.0 to designing, developing, and deploying new .NET Core 6 applications using Blazor. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have a passion for writing code and building things customers need. But my personal goal is to always learn how to better myself and become a better IT Professional.
 
-### Markdown
+### .NET Experience
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
